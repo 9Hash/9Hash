@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @9Hash
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on nothing as of now. Just a fresher learning stuff.
+- 📫 Reach out to me at satwik.sarker.1999@gmail.com
